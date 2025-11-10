@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React CI/CD Demo</h1>
+        <h1>React CI/CD Updated</h1>
         <p>Click count: {count}</p>
         <button onClick={() => setCount(count + 1)}>
           Increment
