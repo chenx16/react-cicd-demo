@@ -375,7 +375,7 @@ git push
 - Go to **Settings** → **Actions** → **General** → **Workflow permissions**
 - Select **"Read and write permissions"**
 - This is required for the deployment action to work
-
+ 
 **Deployment fails:**
 - Verify GitHub Pages is enabled in **Settings** → **Pages**
 - Ensure **Source** is set to **"GitHub Actions"** (not "Deploy from a branch")
