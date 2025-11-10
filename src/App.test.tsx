@@ -4,7 +4,7 @@ import App from './App'
 describe('App Component', () => {
   test('renders heading', () => {
     render(<App />)
-    const heading = screen.getByText(/React CI\/CD Demo/i)
+    const heading = screen.getByText(/React CI\/CD Updated/i)
     expect(heading).toBeInTheDocument()
   })
 
